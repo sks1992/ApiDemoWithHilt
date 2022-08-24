@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoApiDagger</string>
+    <string name="profile_image">ProfileImage</string>
+</resources>
